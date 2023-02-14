@@ -14,7 +14,7 @@ The code then defines several Pdefs, "melody," "harmony," and "accompaniment," w
 
 Finally, the Pdefs are played using the default TempoClock with a quantization of 4 beats per measure.
 
-Here's a [link](https://www.example.com) to the original Steven Universe Introduction.
+Here's a [link](https://www.youtube.com/watch?v=BzT3xrtJRpA) to the original Steven Universe Introduction.
 
 
 
